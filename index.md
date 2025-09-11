@@ -12,7 +12,11 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Bulan](ebook/Bulan.pdf) - herika (2025)
 6. [Bumi](ebook/Bumi.pdf) - herika (2025)
 7. [Ayat ayat api](ebook/Ayat ayat api.pdf) - herika (2025)
-8. [tentang kamu](ebook/tentang kamu.pdf) - herika (2025)
+8. [Andrea Hirata-EDENSOR](ebook/Andrea Hirata-EDENSOR.pdf) - herika (2025)
+9. [Tere liye-the falling leaf never hates the](ebook/Tere liye-the falling leaf never hates the.pdf) - herika (2025)
+10. [Yang fana adalah waktu](ebook/Yang fana adalah waktu.pdf) - herika (2025)
+11. [MENJADI GURU SEKOLAH MINGGU](ebook/MENJADI GURU SEKOLAH MINGGU.pdf) - herika (2025)
+12. [Bahagia kenapa tidak 1](ebook/[Bahagia kenapa tidak 1.pdf) - herika (2025)
 
 
 _ _ _
