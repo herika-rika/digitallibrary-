@@ -19,7 +19,7 @@ Berikut ini adalah koleksi yang dimiliki:
 12. [Bahagia kenapa tidak 1](ebook/[Bahagia kenapa tidak 1.pdf) - herika (2025)
 
 ---
-[halaman1](webti/halaman1.html)[halaman2](webti/halaman2.html)[halaman3](webti/halaman3.html)[halaman4](webti/halaman.html)[halaman5](webti/halaman5.html)[halaman6](webti/halaman6.html)[halaman7](webti/halaman7.html)
+[halaman1](webti/halaman1.html) [halaman2](webti/halaman2.html) [halaman3](webti/halaman3.html) [halaman4](webti/halaman.html) [halaman5](webti/halaman5.html) [halaman6](webti/halaman6.html) [halaman7](webti/halaman7.html)
 
 
 
