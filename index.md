@@ -18,6 +18,11 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [MENJADI GURU SEKOLAH MINGGU](ebook/MENJADI GURU SEKOLAH MINGGU.pdf) - herika (2025)
 12. [Bahagia kenapa tidak 1](ebook/[Bahagia kenapa tidak 1.pdf) - herika (2025)
 
+---
+[halaman1](webti/halaman1.html)
+*Powered by Github Pages*
+
+
 
 _ _ _
 
